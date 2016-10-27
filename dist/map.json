@@ -1,0 +1,121 @@
+{
+    "res": {
+        "css/app.less": {
+            "uri": "/static/css/app.css",
+            "type": "css"
+        },
+        "js/zepto.min.js": {
+            "uri": "/static/js/zepto.min.js",
+            "type": "js"
+        },
+        "js/touch.js": {
+            "uri": "/static/js/touch.js",
+            "type": "js"
+        },
+        "js/slider.js": {
+            "uri": "/static/js/slider.js",
+            "type": "js"
+        },
+        "js/fx.js": {
+            "uri": "/static/js/fx.js",
+            "type": "js"
+        },
+        "js/fx_methods.js": {
+            "uri": "/static/js/fx_methods.js",
+            "type": "js"
+        },
+        "js/fastclick.js": {
+            "uri": "/static/js/fastclick.js",
+            "type": "js"
+        },
+        "js/app.js": {
+            "uri": "/static/js/app.js",
+            "type": "js"
+        },
+        "widget/footer/footer_classify.html": {
+            "uri": "/widget/footer/footer_classify.html",
+            "type": "html"
+        },
+        "css/area/area.less": {
+            "uri": "/static/css/area/area.css",
+            "type": "css"
+        },
+        "css/classify/classify.less": {
+            "uri": "/static/css/classify/classify.css",
+            "type": "css"
+        },
+        "css/common/common.less": {
+            "uri": "/static/css/common/common.css",
+            "type": "css"
+        },
+        "css/flex/flex.less": {
+            "uri": "/static/css/flex/flex.css",
+            "type": "css"
+        },
+        "css/footer/footer.less": {
+            "uri": "/static/css/footer/footer.css",
+            "type": "css"
+        },
+        "css/guessYouLike/guess_you_like.less": {
+            "uri": "/static/css/guessYouLike/guess_you_like.css",
+            "type": "css"
+        },
+        "css/header/header.less": {
+            "uri": "/static/css/header/header.css",
+            "type": "css"
+        },
+        "css/help/help.less": {
+            "uri": "/static/css/help/help.css",
+            "type": "css"
+        },
+        "css/merchant-newDiscount/merchant-newDiscount.less": {
+            "uri": "/static/css/merchant-newDiscount/merchant-newDiscount.css",
+            "type": "css"
+        },
+        "css/my/my.less": {
+            "uri": "/static/css/my/my.css",
+            "type": "css"
+        },
+        "css/mycollection/mycollection.less": {
+            "uri": "/static/css/mycollection/mycollection.css",
+            "type": "css"
+        },
+        "css/search/search.less": {
+            "uri": "/static/css/search/search.css",
+            "type": "css"
+        },
+        "css/slider/slider.less": {
+            "uri": "/static/css/slider/slider.css",
+            "type": "css"
+        },
+        "widget/header/header_index.html": {
+            "uri": "/widget/header/header_index.html",
+            "type": "html"
+        },
+        "widget/slider/slider.html": {
+            "uri": "/widget/slider/slider.html",
+            "type": "html"
+        },
+        "widget/slides_nav/slides_nav.html": {
+            "uri": "/widget/slides_nav/slides_nav.html",
+            "type": "html"
+        },
+        "widget/area/area.html": {
+            "uri": "/widget/area/area.html",
+            "type": "html"
+        },
+        "widget/GuessYouLike/guess_you_like.html": {
+            "uri": "/widget/GuessYouLike/guess_you_like.html",
+            "type": "html"
+        },
+        "widget/footer/footer_index.html": {
+            "uri": "/widget/footer/footer_index.html",
+            "type": "html"
+        },
+        "widget/footer/footer_my.html": {
+            "uri": "/widget/footer/footer_my.html",
+            "type": "html"
+        }
+    },
+    "pkg": {}
+}

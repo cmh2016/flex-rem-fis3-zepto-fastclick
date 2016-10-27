@@ -1,0 +1,98 @@
+@import url(../common/common.less);
+header{
+	width: @w;
+	height: 2.2rem;
+	background-color: @headerColor;
+	text-align: center;
+	.location{
+		display: inline-block;
+		font-size: .85rem;
+		color: #fff;
+		line-height: 2.2rem;
+		margin-left:0.5rem;
+		width: 1.8rem;
+	}
+	.search-bar{
+		background-color: #05a494;
+		height:1.6rem;
+		margin-top: (2.2-1.6)/2rem;
+		margin-right: .5rem;
+		margin-left: .5rem;
+		.roundedCorners(0.2rem);
+		.icon_search{
+			width: 25px;
+			background: url("../../images/icon/Icon-search.png?__inline") 10px center no-repeat;
+			background-size: 50%;
+		}
+		form{
+			input[type=search]{
+				height: 1.6rem;
+				width: 100%;
+				border: none;
+				background-color: #05a494;
+				color: #fff;
+				outline:medium;
+				font-size: .7rem;
+			}
+		}
+	}
+	.scan{
+		background: url("../../images/icon/Icon-ewm.png?__inline") center center no-repeat;
+		background-size: 70%;
+		margin-right: .5rem;
+		height: 1.6rem;
+		margin-top:(2.2-1.6)/2rem;
+		width: 1.2rem;
+	}
+	.information{
+		margin-right: .5rem;
+		background: url("../../images/icon/Icon-msg.png?__inline") center center no-repeat;
+		background-size: 70%;
+		position: relative;
+		height: 1.6rem;
+		margin-top:(2.2-1.6)/2rem;
+		width: 1.2rem;
+		.msgTip{
+			position: absolute;
+			display: inline-block;
+			width: 10px;
+			height: 10px;
+			.roundedCorners(50%);
+			background-color: #f7740a;
+			right: 0;
+			top: 0.4rem;
+		}
+	}
+	.title{
+		font-size: .85rem;
+		color: #fff;
+		line-height: 2.2rem;
+		margin: 0 auto;
+		z-index: 5;
+	}
+	.title_margin_center{
+		margin-left: -2.5rem;
+	}
+	.back{
+		float: left;
+		width: 2rem!important;
+		height:100%;
+		margin-left: .5rem;
+		background: url("../../images/icon/Icon-back.gif?__inline") center center no-repeat;
+		background-size:30%;
+
+	}
+	.locationKq{
+		width: 2rem!important;
+		margin-right: .5rem;
+		background: url("../../images/icon/Icon-header-location.gif?__inline") center center no-repeat;
+		background-size:40%;
+	}
+	.titleSave{
+		font-size: 0.7rem;
+		color: #fff;
+		line-height: 2.2rem;
+		margin-right: 0.8rem;
+	}
+}
+
